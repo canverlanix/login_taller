@@ -1,0 +1,15 @@
+Index: app/src/main/java/com/example/login_taller/MainActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/example/login_taller/MainActivity.java	(date 1567629160000)
++++ app/src/main/java/com/example/login_taller/MainActivity.java	(date 1567629442747)
+@@ -10,6 +10,7 @@
+ public class MainActivity extends AppCompatActivity {
+     private EditText usu;
+     private EditText pas;
++
+     private Button btn;
+ 
+     @Override
